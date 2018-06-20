@@ -61,7 +61,8 @@ After data wrangling, the split data set was all ready for core analysis in whic
 The performance of each algorithm was tabulated in a meaningful & convenient manner keeping all the evaluation metrics alligned so that it gets easily accessible & understandable to the viewers
 ![alt-txt](Air%20quality/Outcome(Airquality%20Analysis).PNG)
 
-
+## Future Scope of the experiment
+Humidity drives most of the observable weather phenomena starting with clouds via fog, rain to storms and finally to such dramatic weather phenomena as hurricanes. It is not possible to forecast the weather exactly without precise knowledge of humidity in all the layers of the atmosphere. Correct relative humidity is important for our well-being and health.The experiment has attempted to forecat Relative Humidity(RH) based on given factors(Variables influencing).In the mould of this experiment, Relative Humidity can be predicted in other places to offer Meteorologists insights to forecast weather patterns.
 
 
 
