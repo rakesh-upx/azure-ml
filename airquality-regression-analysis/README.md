@@ -29,6 +29,10 @@ The data set was collected from UCI repository & uploaded on Azure. The noticebl
 ### Summary of the data
 ![alt-txt](Air%20quality/Capture.PNG)
 
+### Data Wrangling
+All the attributes were well studied before performing Data Wrangling in which I did some feature transformations,missing value analysis,correlation analysis,feature selection & splitting data set into train& test set executing R Script , Python Script other Azure ML modules.
+![alt-txt](Air%20quality/Data%20wrangling.PNG)
+
 ### Replacing -200 with NaN 
 It'll help us to replace the missing cells of the data set at later stage with any appropriate method
 ![alt-txt](Air%20quality/Replacement%20-200%20with%20NaN.PNG)
@@ -49,41 +53,13 @@ It'll help us to replace the missing cells of the data set at later stage with a
 #### Output
 ![alt-txt](Air%20quality/correlation%20plot(airquality).PNG)
 
+### Core Analysis
+After data wrangling, the split data set was all ready for core analysis in which 4 above mentioned algorithms were used to model the train data & scoring was done with test data.
+![alt-txt](Air%20quality/Core%20analysis.PNG)
+
 ### Outcome of the Experiment
 The performance of each algorithm was tabulated in a meaningful & convenient manner keeping all the evaluation metrics alligned so that it gets easily accessible & understandable to the viewers
 ![alt-txt](Air%20quality/Outcome(Airquality%20Analysis).PNG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
