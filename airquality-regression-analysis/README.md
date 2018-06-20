@@ -25,5 +25,6 @@ It'll help us to replace the missing cells of the data set at later stage with a
 
 ### Finding number of missing cells per column
 ![alt-txt](Air%20quality/Execute%20R%20Script(Airquality).PNG)
+![alt-txt](Air%20quality/mv(Airquality).PNG)
 
 
