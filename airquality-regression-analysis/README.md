@@ -1,5 +1,7 @@
 # Regression Analysis on Air Quality Data in Azure ML Studio
 
+Please click [here](https://gallery.azure.ai/Experiment/Air-Quality-in-an-ItalianCity-2) to view the project.
+
 ![alt-txt](Air%20quality/AlfedPalmersmokestacks.jpg)
 
 ## Objective
