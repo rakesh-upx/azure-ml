@@ -27,4 +27,70 @@ It'll help us to replace the missing cells of the data set at later stage with a
 ![alt-txt](Air%20quality/Execute%20R%20Script(Airquality).PNG)
 ![alt-txt](Air%20quality/mv(Airquality).PNG)
 
+### Replacing Missing Values
+![alt-txt](Air%20quality/cleaning%20mv(AirQuality).PNG)
+
+### Quick recheck of missing cells if any after replacement with probabilistic PCA
+![alt-txt](Air%20quality/rechecking%20missing%20cells.PNG)
+
+### Pair plots for visualizing correlation between the vriables
+#### Execute R script
+![alt-txt](Air%20quality/correlation.PNG)
+#### Output
+![alt-txt](Air%20quality/correlation%20plot(airquality).PNG)
+
+### Outcome of the Experiment
+The performance of each algorithm was tabulated in a meaningful & convenient manner keeping all the evaluation metrics alligned so that it gets easily accessible & understandable to the viewers
+![alt-txt](Air%20quality/Outcome(Airquality%20Analysis).PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
