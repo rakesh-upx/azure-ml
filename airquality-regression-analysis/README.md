@@ -22,6 +22,10 @@ The entire analysis was performed in Azure ML studio using
 ` Neural Network algorithms`
 
 ## Code snippets
+
+### Loading the data
+The data set was collected from UCI repository & uploaded on Azure. The noticeble part of the data set is the missing values were tagged with `-200` across all the variables.
+
 ### Summary of the data
 ![alt-txt](Air%20quality/Capture.PNG)
 
