@@ -15,7 +15,11 @@ The dataset contains 9358 instances of hourly averaged responses from an array o
 ![alt-txt](https://github.com/rakesh-upx/azure-ml/blob/master/airquality-regression-analysis/Air%20quality/Airquality%20data.PNG)
 
 ## Tool & Algorithms used
-The entire analysis was performed in Azure ML studio using Linear Regression, Decision Forest Regression, Boosted Decision Tree & Neural Network algorithms
+The entire analysis was performed in Azure ML studio using 
+`Linear Regression`
+`Decision Forest Regression`
+`Boosted Decision Tree`
+` Neural Network algorithms`
 
 ## Code snippets
 ### Summary of the data
