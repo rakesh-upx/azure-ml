@@ -18,3 +18,10 @@ The entire analysis was performed in Azure ML studio using Linear Regression, De
 ## Code snippets
 ### Summary of the data
 ![alt-txt](Air%20quality/Capture.PNG)
+
+### Replacing -200 with NaN 
+It'll help us to replace the missing cells of the data set later stage with any appropriate method
+![alt-txt](Air%20quality/Replacement%20-200%20with%20NaN.PNG)
+
+
+
