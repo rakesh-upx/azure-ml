@@ -30,8 +30,18 @@ The entire experiment was performed in Azure ML Studio using KMeans algorithm of
 The dataset was collected from an online source and uploaded on Azure ML dataset component
 
 ### Summary of the data
-Desriptive Statistics of the dataset was found using `summarize module` of Azure ML Studio
-<img src="Images/Capture.PNG">
+Desriptive Statistics of the dataset was found using `Summarize module` of Azure ML Studio
+<img src="Images/Capture.PNG",alt="neofetch">
+### Data Wrangling
+Data attributes were studied well before proceeding further analysis & found to have some missing cells.Missing cells were replaced with proper method, scatter plots were drawn to visualize relationships among the variables.
+Missing cells were noticed using Summary of the data set shown above.
+#### Missing Value Replacement
+Missing cells were replaced using MICE technique which is very useful perhaps very appropriate method for replacing missing cells as far as the data set is concerned
+<img src="Images/mv%20scrubber.PNG,alt="neofetch">
+                                                 
+
+
+
 
 
 
