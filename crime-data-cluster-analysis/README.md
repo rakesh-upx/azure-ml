@@ -42,7 +42,7 @@ Missing cells were noticed using Summary of the data set shown above.
 #### Missing Value Replacement
 Missing cells were replaced using MICE technique which is very useful perhaps very appropriate method for replacing missing cells as far as the data set is concerned
 
-<img src="Images/mv%20scrubber.PNG>
+![alt-txt](Images/mv%20scrubber.PNG)
           
 #### Quick recheck of missing cells if any after replacement with MICE
 ![alt-txt](Images/summary%20after%20replacing%20mv.PNG)   
@@ -83,7 +83,7 @@ Please click [here](Dataset/Cluster%20Analysis%20Results%20dataset.csv) to view 
 
 
 ## Future Scope
-Clustering is one of the essential Machine Learning techniques used widely in sparse fields Data Science.The experiment conducted on the crime data holds good scope of refurbishing security in the states belonging to different clusters as per requirement. Thus we can use cluster algorithm to predict crime cases in other places & essentially on other data. 
+Clustering is one of the essential Machine Learning techniques used widely in Data Science.The experiment conducted on the crime data holds good scope of refurbishing security in the states belonging to different clusters as per requirement. Thus we can use cluster algorithm to predict crime cases in other places & essentially on other data. 
 
 
 
