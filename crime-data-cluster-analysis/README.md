@@ -37,8 +37,25 @@ Data attributes were studied well before proceeding further analysis & found to 
 Missing cells were noticed using Summary of the data set shown above.
 #### Missing Value Replacement
 Missing cells were replaced using MICE technique which is very useful perhaps very appropriate method for replacing missing cells as far as the data set is concerned
-<img src="Images/mv%20scrubber.PNG,alt="neofetch">
-                                                 
+<img src="Images/mv%20scrubber.PNG>
+          
+#### Quick recheck of missing cells if any after replacement with MICE
+![alt-txt](Images/summary%20after%20replacing%20mv.PNG)   
+
+#### Visualization for finding relation between the variables
+![alt-txt](Images/scatter%20plot1.PNG)
+##### Output
+![alt-txt](Images/scatter%20plot2.PNG)
+![alt-txt](Images/scatter%20plot3.PNG)
+##### Output
+![alt-txt](Images/scatter%20plots.PNG)
+![alt-txt](Images/scatter%20plot4.PNG)
+![alt-txt](Images/scatterplot5.PNG)
+![alt-txt](Images/scatter%20plot%206.PNG)
+![alt-txt](Images/scatter%20plot4.PNG)
+
+
+
 
 
 
