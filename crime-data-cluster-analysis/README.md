@@ -63,7 +63,7 @@ After data wrangling the prepared dataset was used for applying KMeans algorithm
 ![alt-txt](Images/R%20script%20for%20elbow%20method.PNG)
 #### Output
 ![alt-txt](Images/elbow%20plot.PNG)
-Elbow was noticed at cluster 3 i.e. when K=3, so we'll proceed with K=3 for modeling the data
+Elbow was noticed at cluster 3 i.e. when K=3, so we'll proceed with K=3 for modeling the data.
 #### Let start with KMeans from library of R
 ![alt-txt](Images/Kmeans%20with%20R.PNG)
 #### Output
