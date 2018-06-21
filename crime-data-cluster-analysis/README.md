@@ -30,8 +30,9 @@ The entire experiment was performed in Azure ML Studio using KMeans algorithm of
 The dataset was collected from an online source and uploaded on Azure ML dataset component
 
 ### Summary of the data
-Desriptive Statistics of the dataset was found using `summarize module` of Azure ML Studio 
-![alt-txt](Images/Capture.PNG)
+Desriptive Statistics of the dataset was found using `summarize module` of Azure ML Studio
+<img src="Images/Capture.PNG">
+
 
 
 
