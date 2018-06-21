@@ -31,7 +31,7 @@ The dataset was collected from an online source and uploaded on Azure ML dataset
 
 ### Summary of the data
 Desriptive Statistics of the dataset was found using `Summarize module` of Azure ML Studio
-<img src="Images/Capture.PNG",alt="neofetch">
+<img src="Images/Capture.PNG">
 ### Data Wrangling
 Data attributes were studied well before proceeding further analysis & found to have some missing cells.Missing cells were replaced with proper method, scatter plots were drawn to visualize relationships among the variables.
 Missing cells were noticed using Summary of the data set shown above.
