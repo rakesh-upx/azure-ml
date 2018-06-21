@@ -52,7 +52,24 @@ Missing cells were replaced using MICE technique which is very useful perhaps ve
 ![alt-txt](Images/scatter%20plot4.PNG)
 ![alt-txt](Images/scatterplot5.PNG)
 ![alt-txt](Images/scatter%20plot%206.PNG)
-![alt-txt](Images/scatter%20plot4.PNG)
+![alt-txt](Images/scatter%20plot7.PNG)
+
+### Core Analysis
+After data wrangling the prepared dataset was used for applying KMeans algorithm from both Azure ML library & R library
+
+#### Execute R Script to find optimal K(Number of clusters)
+![alt-txt](Images/R%20script%20for%20elbow%20method.PNG)
+#### Output
+![alt-txt](Images/elbow%20plot.PNG)
+Elbow was noticed at cluster 3 i.e. when K=3, so we'll proceed with K=3 for modeling the data
+#### Let start with KMeans from library of R
+![alt-txt](Images/Kmeans%20with%20R.PNG)
+#### Output
+The test result shows centroids of each cluster,cluster vector,cluster size,SSW & SSB
+![alt-txt](Images/Kmeans%20with%20R.PNG)
+
+
+
 
 
 
