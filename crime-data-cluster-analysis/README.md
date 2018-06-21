@@ -76,6 +76,11 @@ Parameters used to model the data using Azure ML Kmeans module
 
 ![alt-txt](Images/parameters%20for%20Kmeans%20in%20Azure.PNG)
 
+Please click [here](Dataset/Cluster%20Analysis%20Results%20dataset.csv) to view the output of Kmeans test.
+
+
+## Future Scope
+Clustering is one of the essential Machine Learning techniques used widely in sparse fields Data Science.The experiment conducted on the crime data holds good scope of refurbishing security in the states belonging to different clusters as per requirement. Thus we can use cluster algorithm to predict crime cases in other places & essentially on other data. 
 
 
 
