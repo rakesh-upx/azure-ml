@@ -21,6 +21,18 @@ Please click [here](Dataset/crime_data1.csv) to view the dataset.The dataset con
 
 * _Rape_ : (Numeric) Rape arrests (per 100,000)
 
+## Tools & algorithm used
+The entire experiment was performed in Azure ML Studio using KMeans algorithm of both R & Azure ML module
+
+## Code Snippets
+
+### Loading the data
+The dataset was collected from an online source and uploaded on Azure ML dataset component
+
+### Summary of the data
+Desriptive Statistics of the dataset was found using `summarize module` of Azure ML Studio 
+![alt-txt](Images/Capture.PNG)
+
 
 
 
