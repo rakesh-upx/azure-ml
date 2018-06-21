@@ -63,6 +63,8 @@ After data wrangling the prepared dataset was used for applying KMeans algorithm
 ![alt-txt](Images/R%20script%20for%20elbow%20method.PNG)
 #### Output
 ![alt-txt](Images/elbow%20plot.PNG)
+
+
 Elbow was noticed at cluster 3 i.e. when K=3, so we'll proceed with K=3 for modeling the data.
 #### Let start with KMeans from library of R
 ![alt-txt](Images/Kmeans%20with%20R.PNG)
@@ -71,6 +73,7 @@ The test result shows centroids of each cluster,cluster vector,cluster size,SSW 
 ![alt-txt](Images/Output%20of%20KMeans%20with%20R.PNG)
 #### Applying KMeans algorithm using Azure ML module
 Parameters used to model the data using Azure ML Kmeans module
+
 ![alt-txt](Images/parameters%20for%20Kmeans%20in%20Azure.PNG)
 
 
