@@ -41,6 +41,7 @@ Data attributes were studied well before proceeding further analysis & found to 
 Missing cells were noticed using Summary of the data set shown above.
 #### Missing Value Replacement
 Missing cells were replaced using MICE technique which is very useful perhaps very appropriate method for replacing missing cells as far as the data set is concerned
+
 <img src="Images/mv%20scrubber.PNG>
           
 #### Quick recheck of missing cells if any after replacement with MICE
