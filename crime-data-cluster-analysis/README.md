@@ -15,11 +15,11 @@ Please click [here](Dataset/crime_data1.csv) to view the dataset.The dataset con
 
 * _Murder_: (Numeric) Murder arrests (per 100,000)
 
-*_Assault_: (Numeric) Assault arrests (per 100,000)
+* _Assault_: (Numeric) Assault arrests (per 100,000)
 
-*_Urban Population_: (Numeric) Percent urban population
+* _Urban Population_: (Numeric) Percent urban population
 
-*_Rape_: (Numeric) Rape arrests (per 100,000)
+* _Rape_: (Numeric) Rape arrests (per 100,000)
 
 
 
