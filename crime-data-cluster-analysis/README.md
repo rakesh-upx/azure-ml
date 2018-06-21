@@ -25,6 +25,8 @@ Please click [here](Dataset/crime_data1.csv) to view the dataset.The dataset con
 The entire experiment was performed in Azure ML Studio using KMeans algorithm of both R & Azure ML module
 
 ## Code Snippets
+Picture below is the entire experiment conducted in Azure ML workspace
+![alt-txt](Images/Experiment.PNG)
 
 ### Loading the data
 The dataset was collected from an online source and uploaded on Azure ML dataset component
@@ -66,7 +68,22 @@ Elbow was noticed at cluster 3 i.e. when K=3, so we'll proceed with K=3 for mode
 ![alt-txt](Images/Kmeans%20with%20R.PNG)
 #### Output
 The test result shows centroids of each cluster,cluster vector,cluster size,SSW & SSB
-![alt-txt](Images/Kmeans%20with%20R.PNG)
+![alt-txt](Images/Output%20of%20KMeans%20with%20R.PNG)
+#### Applying KMeans algorithm using Azure ML module
+Parameters used to model the data using Azure ML Kmeans module
+![alt-txt](Images/parameters%20for%20Kmeans%20in%20Azure.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
