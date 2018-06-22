@@ -7,7 +7,7 @@ Three Machine Learning projects namely Regression Analysis, Classification Analy
 1.[Regression Analysis on Air Quality](https://github.com/rakesh-upx/azure-ml)
 
 <p align="center">
-  <img src="airquality-regression-analysis/Air%20quality/177.ngsversion.1484334011811.adapt.1900.1.jpg",alt="neofetch" align="middle" height="200px">
+  <img src="airquality-regression-analysis/Air%20quality/177.ngsversion.1484334011811.adapt.1900.1.jpg",alt="neofetch" align="middle" height="300px">
   </p>
 
 
