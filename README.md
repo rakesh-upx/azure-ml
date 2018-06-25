@@ -26,7 +26,9 @@ The analysis establishs predictive models with some powerful Azure ML algorithms
   </p>
   
   
-This Analysis facilitates us assign samples to groups based on similarity using an unsupervised technique(KMeans). The model built on this data with the algorithm correctly chooses number of groups to be made & assigns the observations to groups with nearest corresponding group mean.
+This Analysis facilitates us assign samples to groups based on similarity using an unsupervised technique(KMeans). 
+
+The model built on this data with the algorithm correctly chooses number of groups to be made & assigns the observations to groups with nearest corresponding group mean.
   
 
 
