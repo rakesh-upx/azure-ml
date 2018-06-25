@@ -16,10 +16,7 @@ The analysis establishs predictive models with some powerful Azure ML algorithms
 
 
 
-
-
-
-[Cluster Analysis on Crime data]("https://github.com/rakesh-upx/azure-ml/tree/master/crime-data-cluster-analysis")
+[Cluster Analysis on Crime data]("crime-data-cluster-analysis")
 
 
 <p align="center">
