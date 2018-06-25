@@ -10,7 +10,19 @@ Three Machine Learning projects namely Regression Analysis, Classification Analy
   <img src="airquality-regression-analysis/Air%20quality/177.ngsversion.1484334011811.adapt.1900.1.jpg",alt="neofetch" align="left" height="300px">
   </p>
 
-<br /> The analysis establishs multiple predictive models with multiple powerful Azure ML algorithms to predict RH in air taking other detrimental components in air as input variables.It also offers us to find the impactful detriments in air affecting change in RH.
+The analysis establishs predictive models with some powerful Azure ML algorithms to predict RH in air taking other detrimental components in air as input variables.It also offers us to find the impactful detriments in air affecting change in RH.The outcome of the analysis promises us to carry out further analysis on other similar datasets
+
+
+[Cluster Analysis on Crime data]("https://github.com/rakesh-upx/azure-ml/tree/master/crime-data-cluster-analysis")
+
+
+<p align="center">
+  <img src="Images/baltimore-protest-27apr-police.jpg",alt="neofetch" align="left" height="300px">
+  </p>
+  
+  
+This Analysis facilitates us assign samples to groups based on similarity using an unsupervised technique(KMeans). The model built on this data with the algorithm correctly chooses number of groups to be made & assigns the observations to groups with nearest corresponding group mean.
+  
 
 
 
