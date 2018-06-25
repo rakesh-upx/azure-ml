@@ -33,7 +33,10 @@ The outcome of the analysis promises us to carry out further analysis on other s
   
 This Analysis facilitates us assign samples to groups based on similarity using an unsupervised technique(KMeans). 
 
-The model built on this data with the algorithm correctly chooses number of groups to be made & assigns the observations to groups with nearest corresponding group mean.
+The model built on this data with the algorithm correctly chooses number of groups to be made & assigns the observations to groups with nearest corresponding group means.
+
+
+
   
 
 
