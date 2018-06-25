@@ -16,6 +16,13 @@ The analysis establishs predictive models with some powerful Azure ML algorithms
 
 
 
+
+
+
+
+
+
+
 [Cluster Analysis on Crime data]("crime-data-cluster-analysis")
 
 
