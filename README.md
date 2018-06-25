@@ -4,7 +4,7 @@ Three Machine Learning projects namely Regression Analysis, Classification Analy
 
 ## Projects below were carried out in Azure ML Studio
 
-[Regression Analysis on Air Quality data](https://github.com/rakesh-upx/azure-ml)
+### 1 [Regression Analysis on Air Quality data](https://github.com/rakesh-upx/azure-ml)
 
 <p align="center">
   <img src="airquality-regression-analysis/Air%20quality/177.ngsversion.1484334011811.adapt.1900.1.jpg",alt="neofetch" align="left" height="190px">
@@ -15,17 +15,9 @@ The analysis establishs predictive models with some powerful Azure ML algorithms
 
 
 
+### 2 [Cluster Analysis on Crime data]("crime-data-cluster-analysis")
 
-
-
-
-
-
-
-
-[Cluster Analysis on Crime data]("crime-data-cluster-analysis")
-
-
+<p align="center">
   <img src="crime-data-cluster-analysis/Images/baltimore-protest-27apr-police.jpg",alt="neofetch" align="left"
  height="180px">
   </p>
