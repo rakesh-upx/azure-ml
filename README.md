@@ -13,6 +13,8 @@ Three Machine Learning projects namely Regression Analysis, Classification Analy
 The analysis establishs predictive models with some powerful Azure ML algorithms to predict RH in air taking other detrimental components in air as input variables.It also offers us to find the impactful detriments in air affecting change in RH.The outcome of the analysis promises us to carry out further analysis on other similar datasets
 
 
+
+
 [Cluster Analysis on Crime data]("https://github.com/rakesh-upx/azure-ml/tree/master/crime-data-cluster-analysis")
 
 
