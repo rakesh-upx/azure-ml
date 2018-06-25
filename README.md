@@ -26,7 +26,6 @@ The analysis establishs predictive models with some powerful Azure ML algorithms
 [Cluster Analysis on Crime data]("crime-data-cluster-analysis")
 
 
-<p align="center">
   <img src="crime-data-cluster-analysis/Images/baltimore-protest-27apr-police.jpg",alt="neofetch" align="left"
  height="180px">
   </p>
