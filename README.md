@@ -20,7 +20,7 @@ The analysis establishs predictive models with some powerful Azure ML algorithms
 
 
 <p align="center">
-  <img src="Images/baltimore-protest-27apr-police.jpg",alt="neofetch" align="left" height="300px">
+  <img src="Images/baltimore-protest-27apr-police.jpg",alt="neofetch" align="left" height="180px">
   </p>
   
   
