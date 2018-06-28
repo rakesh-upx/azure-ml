@@ -21,7 +21,7 @@ The outcome of the analysis promises us to carry out further analysis on other s
 
 
 
-### 2. [Cluster Analysis on Crime data]("https://github.com/rakesh-upx/azure-ml/tree/master/crime-data-cluster-analysis")
+### 2. [Cluster Analysis on Crime data](https://github.com/rakesh-upx/azure-ml/tree/master/crime-data-cluster-analysis)
 
 
 
@@ -38,7 +38,7 @@ The model built on this data with the algorithm correctly chooses number of grou
 <br/>
 
 
-### 3. [Classification on Wisconsin Breast Cancer Data]("https://github.com/rakesh-upx/azure-ml/tree/master/breast_cancer")
+### 3. [Classification on Wisconsin Breast Cancer Data](https://github.com/rakesh-upx/azure-ml/tree/master/breast_cancer)
 
 
 
