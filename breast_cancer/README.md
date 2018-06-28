@@ -130,7 +130,7 @@ Density plot helps to know the distribution of variables.
 
 #### Pie plot for Output variable(Diagnosis)
 
-![alt-txt](reast_Cancer_Images/pie%20plot%20for%20diagnosis%20var.PNG]
+![alt-txt](Breast_Cancer_Images/pie%20plot%20for%20diagnosis%20var.PNG]
 
 
 #### Output
@@ -148,6 +148,51 @@ Density plot helps to know the distribution of variables.
 <img src="Breast_Cancer_Images/pie2.PNG" alt="neofetch" align="middle">
   
 </p> 
+
+
+
+
+
+#### Split the data into train & test set for further analysis
+
+<p align="center">
+<img src="Breast_Cancer_Images/split%20data.PNG" alt="neofetch" align="middle">
+ 
+ 
+</p> 
+
+
+#### Parameters of Support Vector Maachine
+
+<p align="center">
+<img src="Breast_Cancer_Images/SVM%20algo.PNG" alt="neofetch" align="middle">
+  
+</p>
+
+
+
+
+#### Final outcome of the analysis
+
+<p align="center">
+<img src="Breast_Cancer_Images/final%20output.PNG" alt="neofetch" align="middle">
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
