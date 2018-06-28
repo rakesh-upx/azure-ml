@@ -40,9 +40,9 @@ The model built on this data with the algorithm correctly chooses number of grou
 
 
 <p align="center">
-  <img src="Breast_Cancer_Images/breast-cancer-in-women.jpg" align="left" height="190px">
-  
+  <img src="Breast_Cancer_Images/breast-cancer-in-women.jpg",alt="neofetch" align="left" height="190px">
   </p>
+
   
   
   
