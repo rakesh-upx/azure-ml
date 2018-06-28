@@ -72,9 +72,27 @@ Data Wrangling is essential part of Data Analysis to prepare the data best befor
 #### Quick recheck of Missing cells if any
 ![alt-txt](Breast_Cancer_Images/quick%20recheck%20of%20MV(Output).PNG)
 
-### Complete & Incomplete cases
-#### R Code
-![alt-txt](Breast_Cancer_Images/complete%20%26%20incomplete%20cases.PNG)
+
+### Finding duplicate rows
+
+
+#### R code
+![alt-txt](Breast_Cancer_Images/duplicate%20rows(R%20codes).PNG)
+
+
+#### Output
+![alt-txt](Breast_Cancer_Images/duplicate%20rows%20output.PNG)
+
+
+### Transforming negative values into absolute form
+
+![alt-txt](
+
+
+### Normalization of the dataset
+
+
+![alt-txt](Breast_Cancer_Images/standardization.PNG)
 
 
 
