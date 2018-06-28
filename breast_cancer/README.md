@@ -54,9 +54,27 @@ The data was collected from Kaggle and uploaded on Azure ML data repository.
 
 ### Data Wrangling
 Data Wrangling is essential part of Data Analysis to prepare the data best before further analysis.Data Wrangling involves Missing Value detection & replacement, outlier detection,transforming data into absolute form,Standardization so on & so forth.
+
+
+
+
 ![alt-txt](Breast_Cancer_Images/data%20wrangling.PNG)
 
 
+## Correlation plot
+![alt-txt](Breast_Cancer_Images/cor%20plot1.PNG)
+![alt-txt](Breast_Cancer_Images/corplot1.PNG)
+### Missing Value Replacement
+#### MICE method
+![alt-txt](Breast_Cancer_Images/missing%20values%20replacement%20with%20MICE%20method.PNG)
+
+
+#### Quick recheck of Missing cells if any
+![alt-txt](Breast_Cancer_Images/quick%20recheck%20of%20MV(Output).PNG)
+
+### Complete & Incomplete cases
+#### R Code
+![alt-txt](Breast_Cancer_Images/complete%20%26%20incomplete%20cases.PNG)
 
 
 
