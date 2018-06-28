@@ -36,7 +36,27 @@ This Analysis facilitates us assign samples to groups based on similarity using 
 The model built on this data with the algorithm correctly chooses number of groups to be made & assigns the observations to groups with nearest corresponding group means.
 
 
+### 3. [Classification on Wisconsin Breast Cancer Data]("rakesh-upx/azure-ml")
 
+
+<p align="center">
+  <img src="Breast_Cancer_Images/breast-cancer-in-women.jpg" alt="neofetch" align="middle">
+  
+  </p>
+  
+  
+  
+  
+  The experiment carried out on Wisconsin Breast cancer data establishes a bunch of models that predict which women are at risk of Breast cancer.
+  
+  <br/>
+  <br/>
+  <br/>
+  `Support Vector Machine` was used as standalone algorithm on different sets of training & test data and each model offers promising result with.
+  
+  <br/>
+  
+  The model performamce was measured based on many metrics such as Accuracy,Precision & Recall, F1 Score,ROc-AUC score so on & so forth.
   
 
 
