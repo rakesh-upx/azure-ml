@@ -49,5 +49,29 @@ The entire experiment was conducted in Azure ML Studio where Azure ML Studio mod
 ## Code snippets
 ### Loading the data
 The data was collected from Kaggle and uploaded on Azure ML data repository.
+### Summary of the data
+![alt-txt](Breast_Cancer_Images/summary.PNG)
+
+### Data Wrangling
+Data Wrangling is essential part of Data Analysis to prepare the data best before further analysis.Data Wrangling involves Missing Value detection & replacement, outlier detection,transforming data into absolute form,Standardization so on & so forth.
+![alt-txt](Breast_Cancer_Images/data%20wrangling.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
