@@ -37,7 +37,8 @@ The mean, standard error and "worst" or largest (mean of the three largest value
 Missing attribute values: Yes
 ##### Class distribution: `357 benign, 212 malignant`
 
-
+Please have a gimpse of the dataset
+![alt-txt]("Breast_Cancer_Images/Capture.PNG")
 
 
 
