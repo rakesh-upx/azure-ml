@@ -111,7 +111,10 @@ Normality test was conducted on Perimeter mean
 ##### Density plots 
 Density plot helps to know the distribution of variables.
 
-####### Below density plots were drawn in respect to Output variable(Benign or Malignant)
+###### Below density plots were drawn in respect to Output variable(Benign or Malignant)
+
+
+
 
 <p align="center">
 <img src="Breast_Cancer_Images/density%20plot1.PNG" alt="neofetch" align="middle" >
@@ -125,15 +128,26 @@ Density plot helps to know the distribution of variables.
 </p>
 
 
+#### Pie plot for Output variable(Diagnosis)
+
+![alt-txt](reast_Cancer_Images/pie%20plot%20for%20diagnosis%20var.PNG]
+
+
+#### Output
+
+<p align="center">
+<img src="Breast_Cancer_Images/pie%201.PNG" alt="neofetch" align="middle">
+  
+</p>  
 
 
 
 
 
-
-
-
-
+<p align="center">
+<img src="Breast_Cancer_Images/pie2.PNG" alt="neofetch" align="middle">
+  
+</p> 
 
 
 
