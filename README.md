@@ -56,7 +56,6 @@ The experiment carried out on Wisconsin Breast cancer data establishes a bunch o
   
   `Support Vector Machine` was used as standalone algorithm on different sets of training & test data and each model offers promising result with.
   
-  <br/>
   
   The model performamce was measured based on many metrics such as Accuracy,Precision & Recall, F1 Score,ROc-AUC score so on & so forth.
   
