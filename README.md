@@ -35,14 +35,16 @@ This Analysis facilitates us assign samples to groups based on similarity using 
 
 The model built on this data with the algorithm correctly chooses number of groups to be made & assigns the observations to groups with nearest corresponding group means.
 <br/>
-
+<br/>
 
 
 ### 3. [Classification on Wisconsin Breast Cancer Data]("rakesh-upx/azure-ml")
 
 
+
 <p align="center">
-<img src="Breast_Cancer_Images/breast-cancer-in-women.jpg",alt="neofetch" align="left" height="190px">
+<img src="Breast_Cancer_Images/breast-cancer-in-women.jpg",alt="neofetch" align="left" 
+height="190px">
 </p>
 
   
