@@ -48,12 +48,9 @@ height="190px">
 </p>
 
   
+   
+The experiment carried out on Wisconsin Breast cancer data establishes a bunch of models that predict which women are at risk of Breast cancer.
   
-  
-  
-  The experiment carried out on Wisconsin Breast cancer data establishes a bunch of models that predict which women are at risk of Breast cancer.
-  
-  <br/>
   <br/>
   <br/>
   
