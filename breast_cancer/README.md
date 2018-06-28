@@ -40,6 +40,14 @@ Missing attribute values: Yes
 Please have a glimpse of the dataset
 ![alt-txt](Breast_Cancer_Images/Capture.PNG)
 
+## Tool & Algorithms used
 
+The entire experiment was conducted in Azure ML Studio where Azure ML Studio modules, R Script has been used.
+`Support Vector Machine` has been used as standalone algorithm for this analysis.
+
+
+## Code snippets
+### Loading the data
+The data was collected from Kaggle and uploaded on Azure ML data repository.
 
 
