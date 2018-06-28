@@ -183,8 +183,8 @@ Density plot helps to know the distribution of variables.
 
 
 
-
-b
+### Future Scope
+Machine Learning continues to keep promises in whatever the field of study is given data is available.The powerful algorithmns of ML are being widely used in Medical Science to diagnose as deadly diseases like cancer, genetic disorder,predict probable places to be affected with any contiguous diseases on alarm so on & so forth.
 
 
 
