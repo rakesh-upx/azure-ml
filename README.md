@@ -40,7 +40,7 @@ The model built on this data with the algorithm correctly chooses number of grou
 
 
 <p align="center">
-  <img src="Breast_Cancer_Images/breast-cancer-in-women.jpg" alt="neofetch" align="middle">
+  <img src="Breast_Cancer_Images/breast-cancer-in-women.jpg" alt="neofetch" align="left">
   
   </p>
   
@@ -52,6 +52,7 @@ The model built on this data with the algorithm correctly chooses number of grou
   <br/>
   <br/>
   <br/>
+  
   `Support Vector Machine` was used as standalone algorithm on different sets of training & test data and each model offers promising result with.
   
   <br/>
