@@ -23,7 +23,7 @@ Please click [here](Dataset/BreastCancer.csv) to view the dataset.
 This dataset consists of 573 samples & 32 features describing the characteristics of a cell nuclei taken from a digitized image of a breast mass.
 1) ID number 2) Diagnosis (M = malignant, B = benign)
  3-32)  Ten real-valued features are computed for each cell nucleus:
-a. Radius (mean of distances from center to points on the perimeter)
+* Radius: (mean of distances from center to points on the perimeter)
 b. Texture (standard deviation of gray-scale values) 
 c. Perimeter
 d. Area 
