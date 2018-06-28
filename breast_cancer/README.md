@@ -89,10 +89,12 @@ Data Wrangling is essential part of Data Analysis to prepare the data best befor
 ![alt-txt](
 
 ### Normality Test
+Normality test was conducted on Perimeter mean
+##### Plot
 ![alt-txt](Breast_Cancer_Images/normality%20plot.PNG)
 
 
-### Output
+### KS-test for Normality test
 ![alt-txt](Breast_Cancer_Images/niormality%20test.PNG)
 
 
@@ -101,8 +103,26 @@ Data Wrangling is essential part of Data Analysis to prepare the data best befor
 
 ![alt-txt](Breast_Cancer_Images/standardization.PNG)
 
+### Plots after Missing Value replacement
+
+##### Correlation plot
+![alt-txt](Breast_Cancer_Images/corplot(output)after%20MV%20replacement.PNG)
+
+##### Density plots 
+Density plot helps to know the distribution of variables.
+
+####### Below density plots were drawn in respect to Output variable(Benign or Malignant)
+
+<p align="center">
+<img src="Breast_Cancer_Images/density%20plot1.PNG" alt="neofetch" align="middle" >
+</p>
 
 
+
+
+<p align="center">
+<img src="Breast_Cancer_Images/density%20plot.PNG" alt="neofetch" align="middle" >
+</p>
 
 
 
