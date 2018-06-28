@@ -88,6 +88,13 @@ Data Wrangling is essential part of Data Analysis to prepare the data best befor
 
 ![alt-txt](
 
+### Normality Test
+![alt-txt](Breast_Cancer_Images/normality%20plot.PNG)
+
+
+### Output
+![alt-txt](Breast_Cancer_Images/niormality%20test.PNG)
+
 
 ### Normalization of the dataset
 
