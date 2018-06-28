@@ -18,6 +18,27 @@ The second leading cause of death among women is breast cancer, as it comes dire
 `The experiment aims to predict instances of breast mass collected as Malignant or Benign`.
 
 ## Data Description
-Please click[here](Dataset/BreastCancer.csv) to view the dataset. 
+Please click [here](Dataset/BreastCancer.csv) to view the dataset. 
+
+This dataset consists of 573 samples & 32 features describing the characteristics of a cell nuclei taken from a digitized image of a breast mass.
+1) ID number 2) Diagnosis (M = malignant, B = benign)
+ 3-32)  Ten real-valued features are computed for each cell nucleus:
+a. Radius (mean of distances from center to points on the perimeter)
+b. Texture (standard deviation of gray-scale values) 
+c. Perimeter
+d. Area 
+e. Smoothness (local variation in radius lengths) 
+f. Compactness (perimeter^2 / area - 1.0) 
+g. Concavity (severity of concave portions of the contour) 
+h. Concave points (number of concave portions of the contour) 
+i. Symmetry 
+j. Fractal dimension ("coastline approximation" - 1)
+The mean, standard error and "worst" or largest (mean of the three largest values) of these features were computed for each image, resulting in 30 features. For instance, field 3 is Mean Radius, field 13 is Radius SE, field 23 is Worst Radius.
+Missing attribute values: Yes
+##### Class distribution: `357 benign, 212 malignant`
+
+
+
+
 
 
