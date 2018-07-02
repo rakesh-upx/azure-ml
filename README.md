@@ -4,7 +4,7 @@ Three Machine Learning projects namely Regression Analysis, Classification Analy
 
 ## Projects below were carried out in Azure ML Studio
 
-### 1. [Regression Analysis on Air Quality data](https://github.com/rakesh-upx/azure-ml)
+### 1. [Regression Analysis on Air Quality data](airquality-regression-analysis)
 
 
 <p align="center">
